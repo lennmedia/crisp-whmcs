@@ -1,3 +1,5 @@
+`The un-encrypted source code has been reviewed and validated by the Crisp team in Sept. 2022`
+
 # Crisp for WHMCS
 This addon installs the Crisp chatbox on your WHMCS client area. The plugin automatically sets the users name and e-mail address upon login and has an option to hide the chatbox for admins to avoid user impersonation.
 
