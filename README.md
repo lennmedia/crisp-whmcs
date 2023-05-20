@@ -10,4 +10,4 @@ The WHMCS addon also implements all functionality such as [Identity Verification
 
 To install the plugin to your Crisp website, click [here](https://app.crisp.chat/initiate/plugin/43613682-40a4-43aa-85a7-3013dbe5f0ad/).
 
-***This addon also works without the installation of the WHMCS PRO plugin. The WHMCS PRO plugin is completely optional.***
+***This addon also works without the installation of the WHMCS PRO plugin in Crisp. The WHMCS PRO plugin in Crisp is completely optional.***
